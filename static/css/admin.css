@@ -44,10 +44,10 @@
 
 @keyframes flow
 {
-    0%   {color:black;}
-    25%  {color:red;text-shadow: 0 0 0 #F00;}
+    0%   {color:red;}
+    25%  {color:black;text-shadow: 0 0 0 #F00;}
     50%  {color:yellow;text-shadow: 0 0 15px #F00;}
-    100% {color: black;}
+    100% {color: orange;}
 }
 
 @-webkit-keyframes flow /* Safari and Chrome */
